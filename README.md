@@ -1,7 +1,6 @@
-Freelancer Jekyll theme
-=========================
+Branch for demo purposes only.
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+#### Do not use it for your projects
 
 ## How to use
  - Place a image in `/img/portoflio/`
@@ -30,3 +29,4 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
+=======
