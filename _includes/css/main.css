@@ -188,6 +188,37 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.success input {
+    color: #fff;
+}
+
+section.success textarea {
+    color: #fff;
+}
+
+section.success ::-moz-placeholder {
+    color: #fff;
+}
+
+section.success :-moz-placeholder {
+    color: #fff;
+}
+
+
+section.success ::-webkit-placeholder {
+    color: #fff;
+}
+
+
+section.success ::-ms-input-placeholder {
+    color: #fff;
+}
+
+
+section.success button {
+    background-color: #1DDBB5;
+}
+
 .subtitle {
     font-size: 1.5em;
     font-weight: 800;
